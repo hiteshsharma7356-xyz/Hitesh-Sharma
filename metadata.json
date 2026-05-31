@@ -1,0 +1,6 @@
+{
+  "name": "बचत से निवेश: Smart Money Guide",
+  "description": "अपनी बचत को असली निवेश में बदलने के लिए 8 चरणों का मार्गदर्शिका। महंगाई की मार, इमरजेंसी फंड, 50-30-20 नियम, एसआईपी और कंपाउंडिंग का गणित और एआई फाइनेंशियल कोच के साथ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
